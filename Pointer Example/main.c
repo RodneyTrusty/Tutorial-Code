@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+Youtube video for this code: https://youtu.be/DD-ikmCs4uU
+*/
 int main(void) {
  
 /*
